@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.msa.freedoom"
-        minSdk = 33
+        minSdk = 28
         targetSdk = 36
         versionCode = 50
         versionName = "0.50.0"
